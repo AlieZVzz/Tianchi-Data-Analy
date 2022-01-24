@@ -5,3 +5,5 @@
 /天猫用户重复购买预测/data_format2
 /新闻文本分类/test_a.csv
 /新闻文本分类/train_set.csv
+/新闻文本分类/word2vec.bin
+/新闻文本分类/word2vec.txt
